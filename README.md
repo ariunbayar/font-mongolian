@@ -1,2 +1,2 @@
-# font-mongolian
-project for converting cp1251 font files to unicode
+# Mongolian fonts for Web
+Project for converting cp1251 font files to unicode
